@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491144967176",
+    "project_id": "firestore1104",
+    "storage_bucket": "firestore1104.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491144967176:android:8306ea100e58c5c9c7cdbd",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.s1114702.composefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmDFE6hmfkE0ewmOzCy2Y7lE09bzt4is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491144967176:android:2b21bcf1e6c3cc37c7cdbd",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.s1114702.healthcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmDFE6hmfkE0ewmOzCy2Y7lE09bzt4is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
